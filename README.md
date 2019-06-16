@@ -37,6 +37,8 @@ Email: s3637098@student.rmit.edu.au
   
 <h2>Personal Profile</h2>
    <p>The three tests I have completed are the Myers-Briggs Type Indicator (MBTI), VARK test and an Online Creativity Test. </p>
+   <p>
+     
      
 <h3> What do the results of these tests mean for you?<h3>
   <p>They mean that I am generally a free thinker who learns by doing. I tend to enjoy a challenge and learning new things. </p>

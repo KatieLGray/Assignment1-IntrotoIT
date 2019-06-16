@@ -38,7 +38,7 @@ Email: s3637098@student.rmit.edu.au
 <h2>Personal Profile</h2>
    <p>The three tests I have completed are the Myers-Briggs Type Indicator (MBTI), VARK test and an Online Creativity Test. </p>
    
-   <a href= "https://www.16personalities.com/enfj-friends"</a>
+ <a> href="https://www.16personalities.com/enfj-friends"</a>
    
 <h3> What do the results of these tests mean for you?<h3>
    <h2> </h2>

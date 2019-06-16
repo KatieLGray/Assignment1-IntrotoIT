@@ -37,7 +37,10 @@ Email: s3637098@student.rmit.edu.au
   <p>My ideal Job is working as a financial planner/counsellor for those in financial hardship within the Australian Defence Force and from remote rural areas. I have worked on army bases for a large part of my career and see a need for further financial education within the sector. Much the same, I feel that individuals within remote localities do not have access to as much financial support systems as they should. Ideally I see myself assisting these individuals in rebuilding their finances and assisting them in planning for a future with financial security. </p>
   
 <h2>Personal Profile</h2>
-   <p>Content about this section...</p>
+   <p>The three tests I have completed are the Myers-Briggs Type Indicator (MBTI), VARK test and an Online Creativity Test. </p>
+   
+   <a href= "https://www.16personalities.com/enfj-friends"</a>
+   
 <h3> What do the results of these tests mean for you?<h3>
    <p>Content about this section...</p>
 <h3> How do you think these results may influence your behavior in a team?<h3>

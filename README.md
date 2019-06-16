@@ -39,9 +39,7 @@ Email: s3637098@student.rmit.edu.au
    <p>The three tests I have completed are the Myers-Briggs Type Indicator (MBTI), VARK test and an Online Creativity Test. </p>
   <p> https://github.com/KatieLGray/Assignment1-IntrotoIT/blob/master/Free%20online%20creativity%20test%20-%20TestMyCreativity.pdf  <p>
    <p> https://github.com/KatieLGray/Assignment1-IntrotoIT/blob/master/Friendships%20_%20Protagonist%20Personality%20(ENFJ-A%20_%20ENFJ-T)%20_%2016Personalities.pdf    <p>
-   <p> https://github.com/KatieLGray/Assignment1-IntrotoIT/blob/master/The%20VARK%20Questionnaire%20_%20Learning%20Style%20Quiz.pdf   <p>      (FYI - tried my best to work out how to merge the uploaded documents into my assignment.... could not work this out)    <p>
-
-     
+   <p> https://github.com/KatieLGray/Assignment1-IntrotoIT/blob/master/The%20VARK%20Questionnaire%20_%20Learning%20Style%20Quiz.pdf <p>       
      
 <h3> What do the results of these tests mean for you?<h3>
   <p>They mean that I am generally a free thinker who learns by doing. I tend to enjoy a challenge and learning new things. </p>

@@ -1,4 +1,4 @@
-# Assignment1-IntrotoIT
+# Assignment 1-Intro to IT
 <!DOCTYPE html>
 <html>
 <head>

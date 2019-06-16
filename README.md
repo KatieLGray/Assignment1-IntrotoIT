@@ -46,7 +46,7 @@ Email: s3637098@student.rmit.edu.au
   <p>They mean that I am generally a free thinker who learns by doing. I tend to enjoy a challenge and learning new things. </p>
 <h3> How do you think these results may influence your behavior in a team?<h3>
     <h2> </h2>
-   <p>C I would need to be actively involved in teamwork to learn. I would also struggle to manage strong personalities as I may be too eager to please and meet expectations. </p>
+   <p> I would need to be actively involved in teamwork to learn. I would also struggle to manage strong personalities as I may be too eager to please and meet expectations. </p>
 <h3>How should you take this into account when forming a team?<h3>
     <h2> </h2>
    <p> I would need to be very communicative with my team and ensure that I do not get overly absorbed by new and exciting ideas that leave us out of depth. </p>

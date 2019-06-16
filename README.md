@@ -2,12 +2,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Assignment 1</title>
+<title>  Introduction to Information Technology - Assignment 1 <title>
 </head>
 <body>
 <h1>My IT Profile</h1> 
   Introduction to Information Technology - Assignment 1 - Katie Scattolin - s3637098 -
 Email: s3637098@student.rmit.edu.au
+ 
+ <img src= "https://scontent.fmel3-1.fna.fbcdn.net/v/t1.0-9/52134289_2164804833541825_3014744154740621312_n.jpg?_nc_cat=104&_nc_ht=scontent.fmel3-1.fna&oh=f0a46cb06b6dcbf1bd29b63394307d43&oe=5D95F7FE">
+  
 <h2>Nationality & culture</h2>
   <p>Australian with an Italian and Austrian heritage.  </p>
   

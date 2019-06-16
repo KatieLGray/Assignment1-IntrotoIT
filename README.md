@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>My IT Profile</h1> 
-  Introduction to Information Technology - Assignment 1 - Katie Scattolin - s3637098
+  Introduction to Information Technology - Assignment 1 - Katie Scattolin - s3637098 -
 Email: s3637098@student.rmit.edu.au
 <h2>Nationality & culture</h2>
   <p>Australian with an Italian and Austrian heritage.  </p>

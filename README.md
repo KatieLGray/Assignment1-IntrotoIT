@@ -1,8 +1,7 @@
-# Assignment 1-Intro to IT
 <!DOCTYPE html>
 <html>
 <head>
-<title>  Introduction to Information Technology - Assignment 1 <title>
+<title>Assignment 1</title>
 </head>
 <body>
 <h1>My IT Profile</h1> 
